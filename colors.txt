@@ -1,0 +1,11 @@
+font-family: "Open Sans";
+
+#000000 black
+#ffffff white
+#3065f8
+#5c87ff
+#bfbfbf gri deschis
+#070439
+#f8f8fe
+#3c9f8f
+#585989
